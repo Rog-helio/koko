@@ -1,0 +1,19 @@
+magic
+tech sky130A
+magscale 1 2
+timestamp 1779081401
+use bufdaclay  bufdaclay_0
+timestamp 1779081401
+transform -1 0 65463 0 -1 28931
+box -336 -184 19288 19224
+use dds  dds_0
+timestamp 1779081401
+transform 0 -1 66027 1 0 31659
+box 0 0 17903 20047
+use filtro_ota  filtro_ota_0
+timestamp 1779081401
+transform -1 0 33035 0 -1 50221
+box -336 -184 23888 23576
+<< properties >>
+string FIXED_BBOX 0 0 0 0
+<< end >>

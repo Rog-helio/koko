@@ -1,0 +1,113 @@
+magic
+tech sky130A
+magscale 1 2
+timestamp 1779081401
+<< error_s >>
+rect -142 142 -136 148
+rect 136 142 142 148
+rect -10977 87 -10971 93
+rect -10983 81 -10977 87
+rect -10983 -87 -10977 -81
+rect -197 -87 197 142
+rect 10971 87 10977 93
+rect 10977 81 10983 87
+rect 10977 -87 10983 -81
+rect -10977 -93 -10971 -87
+rect -142 -108 142 -87
+rect 10971 -93 10977 -87
+rect -142 -136 -78 -108
+rect -148 -142 -78 -136
+rect -32 -142 32 -108
+rect 78 -136 142 -108
+rect 78 -142 148 -136
+rect -142 -148 -136 -142
+rect 136 -148 142 -142
+use Contact$1  Contact$1_0
+timestamp 1779081401
+transform 1 0 0 0 1 0
+box -13067 -13067 13067 13067
+use Contact$4  Contact$4_0
+timestamp 1779081401
+transform 1 0 0 0 1 0
+box -13029 -13029 13029 13029
+use Contact$6  Contact$6_0
+timestamp 1779081401
+transform 1 0 0 0 1 0
+box -38 -93 38 93
+use Contact$7  Contact$7_0
+timestamp 1779081401
+transform 1 0 0 0 1 0
+box -37 -77 37 77
+use Contact$8  Contact$8_0
+timestamp 1779081401
+transform 1 0 0 0 1 0
+box -93 -93 93 93
+use Contact$10  Contact$10_0
+timestamp 1779081401
+transform 1 0 0 0 1 0
+box -148 -148 148 148
+use Contact$11  Contact$11_0
+timestamp 1779081401
+transform 1 0 0 0 1 0
+box -148 -148 148 148
+use Contact$12  Contact$12_0
+timestamp 1779081401
+transform 1 0 0 0 1 0
+box -117 -117 117 117
+use Contact$13  Contact$13_0
+timestamp 1779081401
+transform 1 0 0 0 1 0
+box -77 -37 77 37
+use Contact$14  Contact$14_0
+timestamp 1779081401
+transform 1 0 0 0 1 0
+box -37 -77 37 77
+use Contact$15  Contact$15_0
+timestamp 1779081401
+transform 1 0 0 0 1 0
+box -32 -64 32 64
+use Contact$16  Contact$16_0
+timestamp 1779081401
+transform 1 0 0 0 1 0
+box -10983 -93 10983 93
+use Contact$17  Contact$17_0
+timestamp 1779081401
+transform 1 0 0 0 1 0
+box -93 -93 93 93
+use Contact$18  Contact$18_0
+timestamp 1779081401
+transform 1 0 0 0 1 0
+box -77 -77 77 77
+use Contact$19  Contact$19_0
+timestamp 1779081401
+transform 1 0 0 0 1 0
+box -64 -64 64 64
+use Contact$20  Contact$20_0
+timestamp 1779081401
+transform 1 0 0 0 1 0
+box -37 -37 37 37
+use Contact$21  Contact$21_0
+timestamp 1779081401
+transform 1 0 0 0 1 0
+box -32 -32 32 32
+use Contact$22  Contact$22_0
+timestamp 1779081401
+transform 1 0 0 0 1 0
+box -38 -38 38 38
+use Contact$23  Contact$23_0
+timestamp 1779081401
+transform 1 0 0 0 1 0
+box -93 -38 93 38
+use Contact$24  Contact$24_0
+timestamp 1779081401
+transform 1 0 0 0 1 0
+box -64 -32 64 32
+use Contact$27  Contact$27_0
+timestamp 1779081401
+transform 1 0 0 0 1 0
+box -11067 -10067 11067 10067
+use Contact  Contact_0
+timestamp 1779081401
+transform 1 0 0 0 1 0
+box -11029 -10029 11029 10029
+<< end >>
